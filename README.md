@@ -32,6 +32,9 @@ The trained model was saved in .tflite format for future use.
 **Visualizing Training Loss and Accuracy:**
 The loss and accuracy values during the training process were visualized using graphs.
 These graphs helped us understand how the model performed and improved.
+
+
+
 ![Ekran Görüntüsü (676)](https://github.com/user-attachments/assets/f33d7699-64d5-4387-80f6-7ade617726ac)
 ![Ekran Görüntüsü (677)](https://github.com/user-attachments/assets/776b3fcc-810b-4694-bdfe-3a0ed2963565)
 ![Ekran Görüntüsü (678)](https://github.com/user-attachments/assets/085e6cf6-4350-450e-807d-50eab4a4ba79)
